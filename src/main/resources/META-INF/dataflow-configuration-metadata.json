@@ -1,0 +1,17 @@
+{
+  "groups": [
+    {
+      "name": "spel.function",
+      "type": "com.cloudgen.n3xgen.transformCustom.bean.SpelFunctionProperties",
+      "sourceType": "com.cloudgen.n3xgen.transformCustom.bean.SpelFunctionProperties"
+    }
+  ],
+  
+  "properties": [
+    {
+      "name": "spel.function.expression",
+      "type": "java.lang.String",
+      "defaultValue": "payload"
+    }
+  ]
+}

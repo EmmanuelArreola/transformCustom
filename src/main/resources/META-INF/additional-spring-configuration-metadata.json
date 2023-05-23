@@ -1,0 +1,9 @@
+{
+  "properties": [
+    {
+      "name": "spel.function.expression",
+      "type": "java.lang.String",
+      "description": "A SpEL expression to apply."
+    }
+  ]
+}
