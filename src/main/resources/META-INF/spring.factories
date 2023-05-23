@@ -1,2 +1,2 @@
 org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
-  org.springframework.cloud.fn.spel.SpelFunctionConfiguration
+  com.cloudgen.n3xgen.transformCustom.stream.SpelFunctionConfiguration
